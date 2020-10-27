@@ -1,3 +1,3 @@
 # test2
 
-#for github
+#from github
